@@ -290,8 +290,11 @@ p strong {
 			width: 100%;
 			margin-bottom: 30px;
 			display: block;
-			height: 300px;
 			background-size: cover;
+		}
+
+		.portfolio section.thirds .item.bgimg {
+			height: 300px;
 		}
 
 		.portfolio section.thirds img {
