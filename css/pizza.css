@@ -306,7 +306,6 @@ p strong {
 	.portfolio section.column {
 		width: 375px;
 		float: left;
-		overflow: hidden;
 	}
 
 	.portfolio section.column:last-child {
