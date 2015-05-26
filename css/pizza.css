@@ -273,13 +273,12 @@ p strong {
 	overflow: hidden;
 	margin: 0 auto;
 	display: block;
-	padding-bottom: 40px;
+	padding: 0 2px 40px;
 }
 
 	.portfolio section.thirds {
 		width: 240px;
 		float: left;
-		overflow: hidden;
 	}
 
 		.portfolio section.thirds:nth-child(2) {
