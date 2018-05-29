@@ -11,25 +11,6 @@ ol,ul { margin:0; margin-left: 25px; }
 a,button { outline: 0; }
 input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, button::-moz-focus-inner { border: 0px; }
 
-@font-face {
-	font-family: "Tisa-pro_regular";
-	src: url("fonts/TisaPro-regular.otf") format("opentype");
-}
-
-@font-face {
-	font-family: "Tisa-pro_thin";
-	src: url("fonts/TisaPro-thin.otf") format("opentype");
-}
-
-@font-face {
-	font-family: "Akagi-pro_book";
-	src: url("fonts/AkagiPro-book.otf") format("opentype");
-}
-
-@font-face {
-	font-family: "Akagi-pro_bold";
-	src: url("fonts/AkagiPro-bold.otf") format("opentype");
-}
 
 @font-face{
 	font-family:Avenir-Light;
@@ -219,7 +200,7 @@ p strong {
 	}
 
 		#container h2 span em.lefty { float: left; }
-		#container h2 span em.righty { float: left; margin-left: 380px; }
+		#container h2 span em.righty { float: left; margin-left: 262px; }
 
 /* Tooltip magic */
 
