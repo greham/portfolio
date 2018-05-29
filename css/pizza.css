@@ -12,39 +12,23 @@ a,button { outline: 0; }
 input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, button::-moz-focus-inner { border: 0px; }
 
 @font-face {
-	font-family:Tisa-pro_regular;
-	src: url("fonts/Tisa-pro_regular.eot");
-	src: 
-	url("fonts/Tisa-pro_regular.woff") format("woff"),
-	url("fonts/Tisa-pro_regular.otf") format("opentype"),
-	url("fonts/Tisa-pro_regular.svg#filename") format("svg");
+	font-family: "Tisa-pro_regular";
+	src: url("fonts/Tisa-pro_regular.otf");
 }
 
 @font-face {
-	font-family:Tisa-pro_thin;
-	src: url("fonts/Tisa-pro_thin.eot");
-	src: 
-	url("fonts/Tisa-pro_thin.woff") format("woff"),
-	url("fonts/Tisa-pro_thin.otf") format("opentype"),
-	url("fonts/Tisa-pro_thin.svg#filename") format("svg");
+	font-family: "Tisa-pro_thin";
+	src: url("fonts/Tisa-pro_thin.otf");
 }
 
 @font-face {
-	font-family:Akagi-pro_book;
-	src: url("fonts/Akagi-pro_book.eot");
-	src: 
-	url("fonts/Akagi-pro_book.woff") format("woff"),
-	url("fonts/Akagi-pro_book.otf") format("opentype"),
-	url("fonts/Akagi-pro_book.svg#filename") format("svg");
+	font-family: "Akagi-pro_book";
+	src: url("fonts/Akagi-pro_book.otf");
 }
 
 @font-face {
-	font-family:Akagi-pro_bold;
-	src: url("fonts/Akagi-pro_bold.eot");
-	src: 
-	url("fonts/Akagi-pro_bold.woff") format("woff"),
-	url("fonts/Akagi-pro_bold.otf") format("opentype"),
-	url("fonts/Akagi-pro_bold.svg#filename") format("svg");
+	font-family: "Akagi-pro_bold";
+	src: url("fonts/Akagi-pro_bold.otf");
 }
 
 @font-face{
