@@ -12,7 +12,7 @@ a,button { outline: 0; }
 input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, button::-moz-focus-inner { border: 0px; }
 
 @font-face {
-	font-family: "Tisa-pro_regular";
+	font-family:Tisa-pro_regular;
 	src: url("fonts/Tisa-pro_regular.eot");
 	src: 
 	url("fonts/Tisa-pro_regular.woff") format("woff"),
@@ -21,7 +21,7 @@ input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, 
 }
 
 @font-face {
-	font-family: "Tisa-pro_thin";
+	font-family:Tisa-pro_thin;
 	src: url("fonts/Tisa-pro_thin.eot");
 	src: 
 	url("fonts/Tisa-pro_thin.woff") format("woff"),
@@ -30,7 +30,7 @@ input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, 
 }
 
 @font-face {
-	font-family: "Akagi-pro_book";
+	font-family:Akagi-pro_book;
 	src: url("fonts/Akagi-pro_book.eot");
 	src: 
 	url("fonts/Akagi-pro_book.woff") format("woff"),
@@ -39,7 +39,7 @@ input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, 
 }
 
 @font-face {
-	font-family: "Akagi-pro_bold";
+	font-family:Akagi-pro_bold;
 	src: url("fonts/Akagi-pro_bold.eot");
 	src: 
 	url("fonts/Akagi-pro_bold.woff") format("woff"),
