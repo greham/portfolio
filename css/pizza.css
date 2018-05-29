@@ -11,6 +11,42 @@ ol,ul { margin:0; margin-left: 25px; }
 a,button { outline: 0; }
 input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, button::-moz-focus-inner { border: 0px; }
 
+@font-face {
+	font-family: "Tisa-pro_regular";
+	src: url("css/fonts/Tisa-pro_regular.eot");
+	src: 
+	url("css/fonts/Tisa-pro_regular.woff") format("woff"),
+	url("css/fonts/Tisa-pro_regular.otf") format("opentype"),
+	url("css/fonts/Tisa-pro_regular.svg#filename") format("svg");
+}
+
+@font-face {
+	font-family: "Tisa-pro_thin";
+	src: url("css/fonts/Tisa-pro_thin.eot");
+	src: 
+	url("css/fonts/Tisa-pro_thin.woff") format("woff"),
+	url("css/fonts/Tisa-pro_thin.otf") format("opentype"),
+	url("css/fonts/Tisa-pro_thin.svg#filename") format("svg");
+}
+
+@font-face {
+	font-family: "Akagi-pro_book";
+	src: url("css/fonts/Akagi-pro_book.eot");
+	src: 
+	url("css/fonts/Akagi-pro_book.woff") format("woff"),
+	url("css/fonts/Akagi-pro_book.otf") format("opentype"),
+	url("css/fonts/Akagi-pro_book.svg#filename") format("svg");
+}
+
+@font-face {
+	font-family: "Akagi-pro_bold";
+	src: url("css/fonts/Akagi-pro_bold.eot");
+	src: 
+	url("css/fonts/Akagi-pro_bold.woff") format("woff"),
+	url("css/fonts/Akagi-pro_bold.otf") format("opentype"),
+	url("css/fonts/Akagi-pro_bold.svg#filename") format("svg");
+}
+
 @font-face{
 	font-family:Avenir-Light;
 	font-weight:normal;
@@ -43,7 +79,7 @@ body {
 	background: #f4f3f3 url(../images/water.jpg) repeat-x center top fixed;
 	background-size: cover;
 	color: #444948;
-	font: normal 16px/24px "Avenir-Light", "Helvetica Neue", Helvetica, sans-serif;
+	font: normal 16px/24px "Akagi-pro_book", "Avenir-Light", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 a {
@@ -52,7 +88,7 @@ a {
 }
 
 p strong {
-	font-family: Avenir-Heavy;
+	font-family: Akagi-pro_bold, Avenir-Heavy;
 }
 
 	h1 {
@@ -116,6 +152,7 @@ p strong {
 		font-size: 3em;
 		line-height: 1em;
 		padding-top: 20px;
+		font-family: Tisa-pro_regular, Avenir-Medium;
 	}
 
 	header h2 span {
@@ -124,7 +161,7 @@ p strong {
 		padding-top: 20px;
 		font-weight: normal;
 		color: #fff;
-		font-family: Avenir-Light;
+		font-family: Tisa-pro_thin, Avenir-Light;
 		letter-spacing: 0.2em;
 	}
 
@@ -178,7 +215,7 @@ p strong {
 	font-weight: bold;
 	padding: 0;
 	margin: 0 0 20px 0;
-	font-family: Avenir-Heavy;
+	font-family: Akagi-pro_bold, Avenir-Heavy;
 	height: 50px;
 }
 
@@ -313,7 +350,7 @@ p strong {
 		padding-left: 30px;
 	}
 
-		.portfolio section a { font-family: Avenir-Heavy; }
+		.portfolio section a { font-family: Akagi-pro_bold, Avenir-Heavy; }
 	
 		.portfolio section a.item {
 			position: relative;
@@ -379,7 +416,7 @@ form p {
 
 input, textarea, select {
 	border: 0;
-	font: normal 14px/21px Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
+	font: normal 14px/21px Akagi-pro_bold, Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
 	padding: 10px 0;
 	background: none;
 	color: #444948;
@@ -430,7 +467,7 @@ input:focus, textarea:focus, select:focus {
 		padding: 20px 0;
 		font-size: 1.3em;
 		background: none;
-		font: normal 14px Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
+		font: normal 14px Akagi-pro_bold, Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
 		text-align: center;
 	}
 
@@ -457,7 +494,7 @@ input:focus, textarea:focus, select:focus {
 		padding: 17px 15px 0 15px;
 		text-align: center;
 		background: none;
-		font: normal 14px Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
+		font: normal 14px Akagi-pro_bold, Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
 		text-transform: uppercase;
 	}
 	
@@ -481,7 +518,7 @@ footer {
 	color: #3F372F;
 	padding-bottom: 60px;
 	position: relative;
-	font-family: Avenir-Heavy;
+	font-family: Akagi-pro_bold, Avenir-Heavy;
 	text-align: right;
 }
 
