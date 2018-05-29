@@ -13,22 +13,22 @@ input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, 
 
 @font-face {
 	font-family: "Tisa-pro_regular";
-	src: url("fonts/Tisa-pro_regular.otf") format("opentype");
+	src: url("fonts/TisaPro-regular.otf") format("opentype");
 }
 
 @font-face {
 	font-family: "Tisa-pro_thin";
-	src: url("fonts/Tisa-pro_thin.otf") format("opentype");
+	src: url("fonts/TisaPro-thin.otf") format("opentype");
 }
 
 @font-face {
 	font-family: "Akagi-pro_book";
-	src: url("fonts/Akagi-pro_book.otf") format("opentype");
+	src: url("fonts/AkagiPro-book.otf") format("opentype");
 }
 
 @font-face {
 	font-family: "Akagi-pro_bold";
-	src: url("fonts/Akagi-pro_bold.otf") format("opentype");
+	src: url("fonts/AkagiPro-bold.otf") format("opentype");
 }
 
 @font-face{
