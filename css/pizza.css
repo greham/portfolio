@@ -104,8 +104,8 @@ p strong {
 	header .avatar {
 		display: block;
 		border-radius: 50%;
-		width: 70px;
-		height: 70px;
+		width: 100px;
+		height: 100px;
 		margin: 0 auto;
 	}
 
