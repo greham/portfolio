@@ -13,38 +13,38 @@ input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, 
 
 @font-face {
 	font-family: "Tisa-pro_regular";
-	src: url("css/fonts/Tisa-pro_regular.eot");
+	src: url("fonts/Tisa-pro_regular.eot");
 	src: 
-	url("css/fonts/Tisa-pro_regular.woff") format("woff"),
-	url("css/fonts/Tisa-pro_regular.otf") format("opentype"),
-	url("css/fonts/Tisa-pro_regular.svg#filename") format("svg");
+	url("fonts/Tisa-pro_regular.woff") format("woff"),
+	url("fonts/Tisa-pro_regular.otf") format("opentype"),
+	url("fonts/Tisa-pro_regular.svg#filename") format("svg");
 }
 
 @font-face {
 	font-family: "Tisa-pro_thin";
-	src: url("css/fonts/Tisa-pro_thin.eot");
+	src: url("fonts/Tisa-pro_thin.eot");
 	src: 
-	url("css/fonts/Tisa-pro_thin.woff") format("woff"),
-	url("css/fonts/Tisa-pro_thin.otf") format("opentype"),
-	url("css/fonts/Tisa-pro_thin.svg#filename") format("svg");
+	url("fonts/Tisa-pro_thin.woff") format("woff"),
+	url("fonts/Tisa-pro_thin.otf") format("opentype"),
+	url("fonts/Tisa-pro_thin.svg#filename") format("svg");
 }
 
 @font-face {
 	font-family: "Akagi-pro_book";
-	src: url("css/fonts/Akagi-pro_book.eot");
+	src: url("fonts/Akagi-pro_book.eot");
 	src: 
-	url("css/fonts/Akagi-pro_book.woff") format("woff"),
-	url("css/fonts/Akagi-pro_book.otf") format("opentype"),
-	url("css/fonts/Akagi-pro_book.svg#filename") format("svg");
+	url("fonts/Akagi-pro_book.woff") format("woff"),
+	url("fonts/Akagi-pro_book.otf") format("opentype"),
+	url("fonts/Akagi-pro_book.svg#filename") format("svg");
 }
 
 @font-face {
 	font-family: "Akagi-pro_bold";
-	src: url("css/fonts/Akagi-pro_bold.eot");
+	src: url("fonts/Akagi-pro_bold.eot");
 	src: 
-	url("css/fonts/Akagi-pro_bold.woff") format("woff"),
-	url("css/fonts/Akagi-pro_bold.otf") format("opentype"),
-	url("css/fonts/Akagi-pro_bold.svg#filename") format("svg");
+	url("fonts/Akagi-pro_bold.woff") format("woff"),
+	url("fonts/Akagi-pro_bold.otf") format("opentype"),
+	url("fonts/Akagi-pro_bold.svg#filename") format("svg");
 }
 
 @font-face{
