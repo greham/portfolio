@@ -117,7 +117,7 @@ p strong {
 		font-size: 3em;
 		line-height: 1em;
 		padding-top: 20px;
-		font-family: Tisa-pro_regular, Avenir-Medium;
+		font-family: Avenir-Medium;
 	}
 
 	header h2 span {
@@ -126,7 +126,7 @@ p strong {
 		padding-top: 20px;
 		font-weight: normal;
 		color: #fff;
-		font-family: Tisa-pro_thin, Avenir-Light;
+		font-family: Avenir-Light;
 		letter-spacing: 0.2em;
 	}
 
