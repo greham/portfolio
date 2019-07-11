@@ -44,7 +44,7 @@ body {
 	background: #f4f3f3 url(../images/water.jpg) repeat-x center top fixed;
 	background-size: cover;
 	color: #444948;
-	font: normal 16px/24px "Akagi-pro_book", "Avenir-Light", "Helvetica Neue", Helvetica, sans-serif;
+	font: normal 16px/24px "Avenir-Light", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 a {
@@ -53,7 +53,7 @@ a {
 }
 
 p strong {
-	font-family: Akagi-pro_bold, Avenir-Heavy;
+	font-family: Avenir-Heavy;
 }
 
 	h1 {
@@ -180,7 +180,7 @@ p strong {
 	font-weight: bold;
 	padding: 0;
 	margin: 0 0 20px 0;
-	font-family: Akagi-pro_bold, Avenir-Heavy;
+	font-family: Avenir-Heavy;
 	height: 50px;
 }
 
@@ -315,7 +315,7 @@ p strong {
 		padding-left: 30px;
 	}
 
-		.portfolio section a { font-family: Akagi-pro_bold, Avenir-Heavy; }
+		.portfolio section a { font-family: Avenir-Heavy; }
 	
 		.portfolio section a.item {
 			position: relative;
@@ -381,7 +381,7 @@ form p {
 
 input, textarea, select {
 	border: 0;
-	font: normal 14px/21px Akagi-pro_bold, Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
+	font: normal 14px/21px Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
 	padding: 10px 0;
 	background: none;
 	color: #444948;
@@ -432,7 +432,7 @@ input:focus, textarea:focus, select:focus {
 		padding: 20px 0;
 		font-size: 1.3em;
 		background: none;
-		font: normal 14px Akagi-pro_bold, Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
+		font: normal 14px Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
 		text-align: center;
 	}
 
@@ -459,7 +459,7 @@ input:focus, textarea:focus, select:focus {
 		padding: 17px 15px 0 15px;
 		text-align: center;
 		background: none;
-		font: normal 14px Akagi-pro_bold, Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
+		font: normal 14px Avenir-Heavy, "Helvetica Neue", Helvetica, sans-serif;
 		text-transform: uppercase;
 	}
 	
@@ -483,7 +483,7 @@ footer {
 	color: #3F372F;
 	padding-bottom: 60px;
 	position: relative;
-	font-family: Akagi-pro_bold, Avenir-Heavy;
+	font-family: Avenir-Heavy;
 	text-align: right;
 }
 
